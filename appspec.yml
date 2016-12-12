@@ -3,6 +3,12 @@ os: linux
 files:
   - source: /index.html
     destination: /var/www/html/
+permissions:
+  - object: /var/www/html/
+    pattern: "*"
+    mode: 755
+    type:
+      - file
 hooks:
   BeforeInstall:
     - location: scripts/start_server
