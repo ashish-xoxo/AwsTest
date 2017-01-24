@@ -1,0 +1,72 @@
+#bottom{
+  padding-top: 50px;
+}
+#bottom h3{
+  text-align: left;
+}
+#bottom .widget input[type="email"]{
+  border: none;
+  width: 70%;
+  height: 45px;
+}
+#bottom .widget .input-group{
+  width: 100%;
+}
+#bottom button#subscribe_button{
+  width: 30%;
+  height: 45px;
+}
+#bottom .widget ul.social-network li a{
+  text-align: center;
+  border-radius: 100%;
+}
+.social-network a.icoLinkedin:hover {
+    background-color: #007bb7;
+}
+.social-network a.icoGoogle:hover{
+  background-color: #bd3518;
+}
+.social-network a.icoTwitter:hover {
+    background-color: #33ccff;
+}
+.social-network a.icoFacebook:hover{
+  background-color: #3b5998;
+}
+.social-network a.icoWordpress:hover{
+  background-color: #00a0d2;
+}
+
+
+#back-to-top {
+    background-color: #303030;
+    border-radius: 0;
+    bottom: 10px;
+    font-size: 12px;
+    height: 40px;
+    line-height: 40px;
+    padding: 0;
+    position: fixed;
+    right: 10px;
+    width: 40px;
+    border: none;
+}
+
+.product-rating{
+    min-height: 36px;
+}
+
+
+.navbar .navbar-nav li:last-child a{
+  border-right: 1px solid #eeeeee;
+}
+
+
+.best_activities, .intrested_activities, .expert_selection_activities{
+  padding-top: 50px;
+}
+
+
+#bottom ul li a {
+    color: #fff;
+    font-size: 15px;
+}

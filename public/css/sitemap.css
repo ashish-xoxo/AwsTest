@@ -1,0 +1,73 @@
+.sitemap-wrapper {
+    /*margin: 0px 0 40px 30px;*/
+        /*padding-top: 20px;*/
+}
+
+.sitemap-wrapper .section {
+    /*float: left;
+    width: 215px;
+    margin-right: 20px;*/
+}
+
+.sitemap-wrapper .section h3 {
+    margin: 0px 0 0px 0;
+    font-size: 17px;
+    background-color: #f1f1f1;
+    padding: 15px;
+
+}
+.section h3{
+  text-align: left;
+}
+#main {
+   /* float: left;
+    width: 1000px;
+    margin: 0 82px;*/
+    background: #fff;
+    padding-bottom: 50px;
+    position: relative;
+}
+.content{
+   /* margin-left: 55px;*/
+}
+.sitemap-wrapper .section li {
+   margin: 10px 0 10px 20px;
+   list-style-type: none;
+   background: url('/img/dot_black.png') no-repeat left 0px top 7px;
+   padding-left: 15px;
+
+   /*padding-top:10px;*/
+}
+.categories-list li{
+  width: 22%;
+    display: inline-block;
+}
+.section-list a{
+  color: #484848;
+}
+.section-list a:hover{
+  text-decoration: underline;
+}
+
+
+.sitemap-wrapper ul li{font-size:14px;}
+
+.sitemap-wrapper ul{        border: 1px solid #dedede;
+    border-top: 0;
+    padding: 0;
+    overflow-y: auto;
+  }
+
+
+ .sitemap-wrapper ul.city-ul-sitemap{  height: 300px;}
+
+
+ /* CSS edited 30th august*/
+ @media(max-width: 420px){
+ 	.content{
+ 		margin-left: 0;
+ 	}
+ }
+ .input-group button{
+  font-size: 14px;
+ }

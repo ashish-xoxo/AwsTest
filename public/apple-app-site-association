@@ -1,0 +1,28 @@
+
+        {
+            "applinks": {
+                "apps": [],
+                "details": [
+                            {
+                                "appID": "UA25ZXWQZB.com.frogo.app",
+                                "paths": ["*"]
+                            },
+                            {
+                                "appID": "R53L45H25S.com.frogo.app",
+                                "paths": ["*"]
+                            },
+                            {
+                                "appID": "8EQR7D6W88.com.frogo.app",
+                                "paths": ["*"]
+                            },
+                            {
+                                "appID": "M857Y4Q3GR.com.frogo.app",
+                                "paths": ["*"]
+                            },
+                            {
+                                "appID": "3SXWMA8DE6.com.frogo.app",
+                                "paths": ["*"]
+                            }
+                            ]
+            }
+        }
